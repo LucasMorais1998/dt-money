@@ -6,7 +6,7 @@ export const Container = styled.form`
     font-size: 1.5rem;
     margin-bottom: 2rem;
   }
-s
+
   input {
     width: 100%;
     padding: 0 1.5rem;
