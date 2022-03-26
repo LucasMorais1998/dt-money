@@ -46,3 +46,7 @@ s
     }
   }
 `;
+
+export const TransactionTypeContainer = styled.div`
+  
+`;
