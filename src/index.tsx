@@ -16,7 +16,7 @@ createServer({
           title: 'Freelance de website',
           type: 'deposit',
           category: 'Dev',
-          amout: 6000,
+          amout: 3000,
           createAt: new Date('2022-02-12 09:00:00'),
         },
         {
@@ -28,7 +28,7 @@ createServer({
           createAt: new Date('2022-02-14 11:00:00'),
         }
       ],
-    })
+    });
   },
 
   routes() {
